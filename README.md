@@ -12,8 +12,13 @@ Contacts: thesidjoshi@gmail.com and jigold@pennmedicine.upenn.edu
 3. Run figure scripts with the first section commented as in the uploaded files (reproduced below):
 
 % Don't reanalyze data?
+
 reanalyzeLC = false;
+
 reanalyzeACC = false;
+
 % Reanalyze data?
+
 % reanalyzeLC = true;
+
 % reanalyzeACC = true;
